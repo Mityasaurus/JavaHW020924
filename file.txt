@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "surname": "Smith",
+    "name": "John",
+    "gender": "MALE",
+    "authorizationTime": "2024-09-03T09:12:04.525867"
+  },
+  {
+    "id": 2,
+    "surname": "Doe",
+    "name": "Jane",
+    "gender": "FEMALE",
+    "authorizationTime": "2024-09-03T08:12:04.526436"
+  },
+  {
+    "id": 3,
+    "surname": "Brown",
+    "name": "Alex",
+    "gender": "NOT_SPECIFIED",
+    "authorizationTime": "2024-09-02T09:12:04.526445"
+  },
+  {
+    "id": 4,
+    "surname": "White",
+    "name": "Chris",
+    "gender": "MALE",
+    "authorizationTime": "2024-09-03T08:42:04.526451"
+  },
+  {
+    "id": 5,
+    "surname": "Black",
+    "name": "Taylor",
+    "gender": "FEMALE",
+    "authorizationTime": "2024-09-03T09:11:49.526456"
+  }
+]
